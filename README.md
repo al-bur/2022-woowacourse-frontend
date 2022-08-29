@@ -37,7 +37,7 @@
 - [x] React 기반의 프론트엔드 웹 애플리케이션을 제작합니다.
 - [x] 재사용 가능한 컴포넌트를 고민하고 설계합니다.
 - [x] 상태 관리 라이브러리를 활용하며 상태 관리의 필요성에 대해 이해합니다.
-- [x] 프론트엔드 웹 애플리케이션에서 고려해야할 테스트 범위와 종류에 대해 학습합니다.https://github.com/woowacourse/react-calculator/pull/27
+- [x] 프론트엔드 웹 애플리케이션에서 고려해야할 테스트 범위와 종류에 대해 학습합니다.
 
 | 프로젝트    | 페어 | 1단계                                                             | 2단계 | 3단계  | 블로그 |
 |------------|------|--------------------------------------------------------------------|--------|---|---|
@@ -46,7 +46,11 @@
 | 리액트 장바구니 | [자스민](https://github.com/hwangstar156) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/91) | [PR](https://github.com/woowacourse/react-shopping-cart/pull/115) |   | [블로그](https://steadyit.tistory.com/35) |
 | 리액트 장바구니 협업 | [하리](https://github.com/LAH1203), [온스타](https://github.com/cks3066) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/21) | [PR](https://github.com/woowacourse/react-shopping-cart-prod/pull/63) |   | |
 
-- 테코톡(리액트 렌더링 최적화)
-https://www.youtube.com/watch?v=1YAWshEGU6g&t=658s
+
+<br>
+
+- [테코톡-리액트 렌더링 최적화](https://www.youtube.com/watch?v=1YAWshEGU6g&t=658s)
+
+
 
 ![image](https://user-images.githubusercontent.com/64825713/183251671-c6507158-9657-43e3-8d7b-a6eedf024803.png)
