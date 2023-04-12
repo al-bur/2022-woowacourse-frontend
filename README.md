@@ -69,9 +69,9 @@
 
 **프로젝트 발표 목록**
 
-1. [프로젝트 1차 데모](https://youtu.be/R7JO6cLeyhU)
+1. [프로젝트 1차 데모](https://youtu.be/R7JO6cLeyhU) - 직접 발표
 2. [프로젝트 2차 데모](https://youtu.be/G4uQTNYNanY)
-3. [프로젝트 3차 데모](https://youtu.be/RSkr2x3n9B8)
+3. [프로젝트 3차 데모](https://youtu.be/RSkr2x3n9B8) - 직접 발표
 4. [프로젝트 4차 데모](https://youtu.be/u_INarrFVZ0)
 5. [프로젝트 5차 데모](https://youtu.be/2CxEYnspLvg)
 
