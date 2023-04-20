@@ -20,13 +20,13 @@
 - [x] 구현한 코드에 대해 E2E 테스트, 유닛 테스트를 작성하고 읽기 좋은 코드로 리팩터링합니다.
 
 
-| 프로젝트    | 페어 | 1단계                                                             | 2단계 | 3단계  | 블로그 |
-|------------|------|--------------------------------------------------------------------|--------|---|---|
-| 계산기 | [티거](https://github.com/daaaayeah) | [PR](https://github.com/woowacourse/javascript-calculator/pull/50) |        |   | |
-| 자동차 경주 | [티거](https://github.com/daaaayeah) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/86) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/145) |   | [블로그](https://steadyit.tistory.com/27) |
-| 로또 | [결](https://github.com/yunjin-kim) | [PR](https://github.com/woowacourse/javascript-lotto/pull/90) | [PR](https://github.com/woowacourse/javascript-lotto/pull/136) |   | [블로그](https://steadyit.tistory.com/31) |
-| 유튜브 강의실 | [록바](https://github.com/lokba) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/89) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/124) |   | |
-| 자판기 | [비녀](https://github.com/KangYunHo1221) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/11) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/48) |   | [블로그](https://steadyit.tistory.com/32) |
+| 프로젝트    | 페어 | 1단계                                                             | 2단계  | 블로그 |
+|------------|------|--------------------------------------------------------------------|--------|---|
+| 계산기 | [티거](https://github.com/daaaayeah) | [PR](https://github.com/woowacourse/javascript-calculator/pull/50) |        |    |
+| 자동차 경주 | [티거](https://github.com/daaaayeah) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/86) | [PR](https://github.com/woowacourse/javascript-racingcar/pull/145)    | [블로그](https://steadyit.tistory.com/27) |
+| 로또 | [결](https://github.com/yunjin-kim) | [PR](https://github.com/woowacourse/javascript-lotto/pull/90) | [PR](https://github.com/woowacourse/javascript-lotto/pull/136) |    [블로그](https://steadyit.tistory.com/31) |
+| 유튜브 강의실 | [록바](https://github.com/lokba) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/89) | [PR](https://github.com/woowacourse/javascript-youtube-classroom/pull/124) |    |
+| 자판기 | [비녀](https://github.com/KangYunHo1221) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/11) | [PR](https://github.com/woowacourse/javascript-vendingmachine/pull/48) |    [블로그](https://steadyit.tistory.com/32) |
 
 
 <br>
