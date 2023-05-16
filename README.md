@@ -104,7 +104,7 @@
 - [우테코 한 달 생활기](https://al-bur.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%95%9C-%EB%8B%AC-%EC%83%9D%ED%99%9C%EA%B8%B0/)
 - [우테코에서 찾은 나만의 효과적인 공부법✌](https://al-bur.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EC%9A%B0%ED%85%8C%EC%BD%94%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-%EB%82%98%EB%A7%8C%EC%9D%98-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EA%B3%B5%EB%B6%80%EB%B2%95/)
 - [팀 프로젝트가 나에게 남긴 것](https://al-bur.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%82%A8%EA%B8%B4-%EA%B2%83/)
-- [내가 꿈꾸는 프로그래머로서의 삶 - 우아한 형제들 기술  ](https://techblog.woowahan.com/9433/) (아래 스크린샷)
+- [내가 꿈꾸는 프로그래머로서의 삶 - 우아한 형제들 기술 블로그](https://techblog.woowahan.com/9433/) (아래 스크린샷)
 
     <img width="648" alt="image" src="https://user-images.githubusercontent.com/64825713/233896243-4f44d7e8-3576-4ed7-9e0d-6e9198ee6ae2.png">
 
