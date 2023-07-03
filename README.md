@@ -50,7 +50,7 @@
 
 <br>
 
-- [테코톡-리액트 렌더링 최적화](https://www.youtube.com/watch?v=1YAWshEGU6g&t=658s)
+- [테코톡-리액트 렌더링 최적화](https://youtu.be/1YAWshEGU6g)
 
 
 
